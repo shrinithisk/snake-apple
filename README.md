@@ -23,3 +23,7 @@ Includes background, apple images, styled score display, snake with animated seg
 2. Install Pygame:  
    ```bash
    pip install pygame
+=======
+# snake-apple
+A  Snake game built with Python and Pygame, featuring scoring, high score tracking, and a rule screen.
+>>>>>>> f23e619638c5b08cb8d112e35d0b7f77815b7745
