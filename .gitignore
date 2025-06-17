@@ -1,0 +1,14 @@
+cd "/Users/shrinithi/Desktop/snake and apple"
+
+# create .gitignore
+cat <<'EOF' > .gitignore
+# Byte‑code / caches
+__pycache__/
+*.py[cod]
+
+# macOS cruft
+.DS_Store
+
+# Runtime files
+highscore.txt
+EOF
